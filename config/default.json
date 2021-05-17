@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dbuser:dbuser@devconnector.xr2wj.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "MYs3cr3t#8Fun2"
+}
